@@ -14,11 +14,11 @@ Ideally, all projects should have:
 - Deployment (specific steps on deploying the project to a hosting platform, how to clone and fork the project as a bonus)
 - Credits (all sources of external code, images and content should be clearly credited with links to the sources)
 
-Below is an example of a basic README for an early project:
+Below is an example of a very basic README for an early project:
 
 # Project Name
 
-## Overview
+## Introduction
 
 Provide a brief introduction to your project. This section should describe the purpose of the project, its target audience, and how it will be useful to them.
 
@@ -59,8 +59,10 @@ Describe the testing process and results to demonstrate that the project works a
 
 - **HTML**: No errors found using [W3C Validator](https://validator.w3.org/).
 - **CSS**: No errors found using [Jigsaw Validator](https://jigsaw.w3.org/css-validator/).
-- **JavaScript**: No errors found using [JSHint](https://jshint.com/).
-- **Python**: No errors were found using [CI's PEP8 Linter](https://pep8ci.herokuapp.com/).
+
+### Lighthouse Testing
+
+Include screenshots of the results for each page in Lighthouse
 
 ### Unfixed Bugs
 
@@ -70,13 +72,15 @@ List any known issues and explain why they have not been resolved.
 
 Describe the process used to deploy the project to a hosting platform.
 For the first two projects, this will typically be GitHub Pages like the Love Running project.
-The other projects are usually deployed to Heroku which requires more detailed deployment steps
+The other projects are usually deployed to Heroku which requires more detailed deployment steps.
 
-Steps to deploy:
-1. Navigate to the repository settings.
-2. Select the deployment method (e.g., GitHub Pages, Netlify, etc.).
-3. Complete the deployment setup.
-4. Share the live link here: [Project Live Link](https://example.com/)
+Example steps to deploy:
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Main Branch and save
+  - Wait for the site to build, then refresh the page for the link to the deployed site
+
+Share the live link here: [Project Live Link](https://example.com/)
 
 ## Credits
 
@@ -91,11 +95,5 @@ Acknowledge sources of content, media, and external code.
 
 - Images from [Open Source Site](https://example.com/)
 - Icons from [Font Awesome](https://fontawesome.com/)
-
-## Additional Project Advice
-
-- Use clear and meaningful commit messages ([Guide](https://chris.beams.io/posts/git-commit/)).
-- Follow best coding practices ([HTML & CSS Guide](https://google.github.io/styleguide/htmlcssguide.html)).
-- Maintain clear and organized file naming conventions.
 
 Happy coding!
