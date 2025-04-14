@@ -39,3 +39,25 @@ You can embed images like:
 ```md
 ![Homepage Wireframe](docs/wireframes/homepage.webp)
 ```
+
+
+---
+
+In more complex projects, it may be useful to include one or both of the following:
+
+### User Flow Diagram *(Site Flow/App Flow/Flowchart)*
+
+This illustrates how users navigate through the site — e.g., from homepage → product page → cart → checkout. It helps visualize the user journey and can support planning the site structure and features.
+
+You might include a flowchart even in a basic JavaScript game showing how you planned the flow of decisions and actions in the game.
+
+### Entity Relationship Diagram (ERD)
+
+This diagram shows the structure of the database and the relationships between different models/tables.
+
+These diagrams can be included within the Design section or added as separate sections depending on your preference and the amount of detail you may want to include.
+
+**Tools for creating diagrams:**
+- [Lucidchart](https://www.lucidchart.com/)
+- [draw.io / diagrams.net](https://app.diagrams.net/)
+- [DBDiagram.io](https://dbdiagram.io/) (specifically for ERDs)
