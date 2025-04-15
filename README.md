@@ -2,15 +2,17 @@
 
 The README should describe the planning, development, testing, and deployment of your project in enough detail to demonstrate your understanding of these processes for the assessor and your skills in all these aspects to others who may read this document (e.g. future employers).
 
-The README should be primarily written in [markdown](https://www.markdownguide.org/).
+The README should be primarily written in [markdown](/MARKDOWN.md).
 
 For early projects, the minimal sections included should be: introduction, features, testing, deployment, and credits.
 As your projects become more complicated, the expectation is the documentation should become more detailed.
-Ideally, all projects should have:
+Ideally, all projects should at least cover:
 - Introduction (project overview, main image)
 - Design (project goals, user stories, layout, colour and typography decisions, mockups, wireframes, etc.)
+  - [DESIGN.md](/DESIGN.md) or [UXDESIGN.md](/UXDESIGN.md)
 - Features (descriptions of features, their value to the users, features left to implement)
 - Testing (validation, lighthouse, accessibility, browser, responsiveness, manual and automated tests, bugs fixed and unfixed)
+  - [TESTING.md](/TESTING.md)
 - Deployment (specific steps on deploying the project to a hosting platform, how to clone and fork the project as a bonus)
 - Credits (all sources of external code, images and content should be clearly credited with links to the sources)
 
