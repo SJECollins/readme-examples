@@ -14,6 +14,7 @@ Ideally, all projects should at least cover:
 - Testing (validation, lighthouse, accessibility, browser, responsiveness, manual and automated tests, bugs fixed and unfixed)
   - [TESTING.md](/TESTING.md)
 - Deployment (specific steps on deploying the project to a hosting platform, how to clone and fork the project as a bonus)
+  - [DEPLOYMENT.md](/DEPLOYMENT.md)
 - Credits (all sources of external code, images and content should be clearly credited with links to the sources)
 
 Below is an example of a very basic README for an early project:
