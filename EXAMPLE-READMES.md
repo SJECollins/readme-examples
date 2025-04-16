@@ -26,12 +26,13 @@ Below are some example READMEs from CI and past student projects.
 - [DesignLand](https://github.com/Code-Institute-Submissions/designland)
 - [Cocktail Nerd](https://github.com/Code-Institute-Submissions/project4-cocktail-nerd)
 - [Rum Away Bar](https://github.com/Dimitris112/rum-away-testp4)
+- [Knowledge Flow](https://github.com/rockroman/CI_PP4-Knowledge-Flow)
 
 ## Portfolio Project 5 (E-commerce) / Milestone Project 4
 
-- [Strings Attached](https://github.com/johnrearden/strings_attached)
-- [Moose Juice](https://github.com/Edb83/moose-juice)
-- []()
+- [Strings Attached](https://github.com/johnrearden/strings_attached?tab=readme-ov-file#strings_attached)
+- [Moose Juice](https://github.com/Edb83/moose-juice?tab=readme-ov-file#moose-juice)
+- [Blade](https://github.com/rockroman/CI_PP5_Blade?tab=readme-ov-file#blade)
 
 ## Portfolio Project 5 (Advanced Frontend)
 
