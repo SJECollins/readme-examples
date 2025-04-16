@@ -19,6 +19,7 @@ Below are some example READMEs from CI and past student projects.
 - [Quiz Master](https://github.com/davidindub/quiz-master)
 - [Crossword Generator](https://github.com/johnrearden/crossword-generator)
 - [Expense Tracker](https://github.com/Rdawson96/expense-tracker-PP3)
+- [Yolkaris Odyssey](https://github.com/patrickhladun/yolkaris-odyssey)
 
 ## Portfolio Project 4 / Milestone Project 3
 
