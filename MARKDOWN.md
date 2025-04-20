@@ -6,6 +6,9 @@ For more in-depth documentation:
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+If using VSCode, there is also a handy extension that can help in writing your README quickly with helpful shortcuts (such as generating a Table of Contents):
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
 ---
 
 ## Headings
