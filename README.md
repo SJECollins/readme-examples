@@ -11,11 +11,13 @@ Ideally, all projects should at least cover:
 - Design (project goals, user stories, layout, colour and typography decisions, mockups, wireframes, etc.)
   - [DESIGN.md](/DESIGN.md) or [UXDESIGN.md](/UXDESIGN.md)
 - Features (descriptions of features, their value to the users, features left to implement)
+- Technologies Used (languages, libraries, etc. used in the project)
 - Testing (validation, lighthouse, accessibility, browser, responsiveness, manual and automated tests, bugs fixed and unfixed)
   - [TESTING.md](/TESTING.md)
 - Deployment (specific steps on deploying the project to a hosting platform, how to clone and fork the project as a bonus)
   - [DEPLOYMENT.md](/DEPLOYMENT.md)
 - Credits (all sources of external code, images and content should be clearly credited with links to the sources)
+  - [CREDITS.md](/CREDITS.md)
 
 Below is an example of a very basic README for an early project:
 
@@ -70,6 +72,10 @@ Include screenshots of the results for each page in Lighthouse
 ### Unfixed Bugs
 
 List any known issues and explain why they have not been resolved.
+
+## Technologies Used
+
+List the languages, frameworks, libraries and tools used to develop the project.
 
 ## Deployment
 
