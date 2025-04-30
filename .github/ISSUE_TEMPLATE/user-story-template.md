@@ -11,7 +11,7 @@ As a **type of user** I can **action** so that **result/goal**.
 
 ### Acceptance Criteria
 
-- Criteria 1
+- Criterion 1
 - Criterion 2
 - Criterion 3
 
